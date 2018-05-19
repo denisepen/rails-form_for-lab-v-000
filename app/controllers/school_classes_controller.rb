@@ -1,3 +1,4 @@
+require 'pry'
 class SchoolClassesController < ActionController::Base
 
 def new
